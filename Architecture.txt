@@ -1,0 +1,34 @@
+ERP System
+│
+├── Authentication Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Accounting Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── HR Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Inventory Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Supply Chain Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Database (e.g., PostgreSQL)
+└── Message Queue (e.g., RabbitMQ)
